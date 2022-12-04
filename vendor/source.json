@@ -1,0 +1,102 @@
+[
+{
+      "path":"../photos/berlin.jpg",
+      "title":"Brandenburgská brána",
+      "desc":"Najznámejšia pamiatka v Berlíne",
+      "GPS":{
+         "longitude":"52.51627589386695",
+         "latitude":"13.377493405672267"
+      },
+      "date_time":"Oct, 15, 2021, 16:50:24"},
+   {
+      "path":"../photos/hincovo.jpg",
+      "title":"Veľké Hincovo pleso",
+      "desc":"Najväčšie pleso vo Vysokých tatrách",
+      "GPS":{
+         "longitude":"49.17867285263545",
+         "latitude":"20.059630132235956"
+      },
+      "date_time":"Dec, 20, 2020, 18:04:06"
+   },
+   {
+
+      "path":"../photos/orava.jpg",
+      "title":"Oravský hrad",
+      "desc":"Je jeden z najkrajších hradov na Slovensku",
+      "GPS":{
+         "longitude":"49.2617804013083",
+         "latitude":"19.358775065710383"
+      },
+      "date_time":"Feb, 14, 2021, 12:32:48"
+},
+   {
+      "path":"../photos/slavin.jpg",
+      "title":"Slavín",
+      "desc":"Pamätník sovietskych vojakov",
+      "GPS":{
+         "longitude":"48.15299357295182",
+         "latitude":"17.100155074802434"
+      },
+      "date_time":"Aug, 12, 2021, 16:56:14"
+   },
+   {
+      "path":"../photos/spaceX_cape.jpg",
+      "title":"Falcon 9",
+      "desc":"Raketa Falcon 9 pri štarte",
+      "GPS":{
+         "longitude":"28.60968654769277",
+         "latitude":"-80.60390221977688"
+      },
+      "date_time":"Oct, 05, 2022, 16:00:57"
+   },
+   {
+      "path":"../photos/spis1.jpg",
+      "title":"Spišský hrad",
+      "desc":"Je jeden z najväčších hradov na Slovensku",
+      "GPS":{
+         "longitude":"48.9995904391754",
+         "latitude":"20.76757607151509"
+      },
+      "date_time":"Jun, 30, 2021, 13:20:37"
+   },
+   {
+      "path":"../photos/spis2.jpg",
+      "title":"Spišský hrad",
+      "desc":"Je jeden z najväčších hradov na Slovensku",
+      "GPS":{
+         "longitude":"48.9995904391754",
+         "latitude":"20.76757607151509"
+      },
+      "date_time":"Jun, 30, 2021, 13:30:46"
+   },
+   {
+      "path":"../photos/spis3.jpg",
+      "title":"Spišský hrad",
+      "desc":"Je jeden z najväčších hradov na Slovensku",
+      "GPS":{
+         "longitude":"48.9995904391754",
+         "latitude":"20.76757607151509"
+      },
+      "date_time":"Jun, 30, 2021, 13:50:12"
+   },
+   {
+      "path":"../photos/starship.jpg",
+      "title":"Starship",
+      "desc":"Spolu s jej nosičom Super Heavy, bude najsilnejšia a najvyššia raketa na svete",
+      "GPS":{
+         "longitude":"25.99284459887207",
+         "latitude":"-97.1743508304132"
+      },
+      "date_time":"Jul, 05, 2022, 18:34:56"
+   },
+   {
+      "path":"../photos/strbske.jpg",
+      "title":"Štrbské pleso",
+      "desc":"Najznámejšie pleso vo Vysokých Tatrách",
+      "GPS":{
+         "longitude":"49.12303889060096",
+         "latitude":"20.058692053556328"
+      },
+      "date_time":"May, 16, 2022, 11:57:34"
+   }
+]
